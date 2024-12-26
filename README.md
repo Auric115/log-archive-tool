@@ -1,5 +1,7 @@
 # Log Archive Tool
 
+A tool to archive logs from the CLI with the date and time.
+
 ## Description
 
 The Log Archive Tool is a simple command-line utility to help manage log files efficiently. It compresses logs from a specified directory into a `.tar.gz` file, stores the archive in a new directory, and logs the details of the operation. This is particularly useful for maintaining a clean system by archiving and removing old logs while preserving them for future reference.
