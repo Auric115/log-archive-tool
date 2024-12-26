@@ -1,6 +1,6 @@
 # Log Archive Tool
 
-[![Project Link](https://img.shields.io/badge/Project-Link-blue)](https://roadmap.sh/projects/log-archive-tool)
+[Project Link](https://img.shields.io/badge/Project-Link-blue)](https://roadmap.sh/projects/log-archive-tool)
 
 ## Description
 
