@@ -1,13 +1,12 @@
 # Log Archive Tool
 
-[[Project Link](https://img.shields.io/badge/Project-Link-blue)](https://roadmap.sh/projects/log-archive-tool)
-
 ## Description
 
 The Log Archive Tool is a simple command-line utility to help manage log files efficiently. It compresses logs from a specified directory into a `.tar.gz` file, stores the archive in a new directory, and logs the details of the operation. This is particularly useful for maintaining a clean system by archiving and removing old logs while preserving them for future reference.
 
 The tool also provides opportunities to extend functionality, such as emailing archive updates or uploading archives to remote servers or cloud storage.
 
+[Project Description Link](https://roadmap.sh/projects/log-archive-tool)
 ---
 
 ## Features
