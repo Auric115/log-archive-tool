@@ -9,6 +9,7 @@ The Log Archive Tool is a simple command-line utility to help manage log files e
 The tool also provides opportunities to extend functionality, such as emailing archive updates or uploading archives to remote servers or cloud storage.
 
 [Project Description Link](https://roadmap.sh/projects/log-archive-tool)
+
 ---
 
 ## Features
